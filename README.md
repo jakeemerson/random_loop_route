@@ -11,7 +11,7 @@ There are clearly issues to still work out or criteria to add, such as:
 - don't go down cul-de-sac streets
 - start from a specific location and route to the nearest point on the loop
 
-The notebook here shows a nice little example of a ~10km tour in Berlin, Germany. Enjoy!
+The [included notebook](https://github.com/jakeemerson/random_loop_route/blob/master/notebooks/random_path_generator.ipynb) shows a nice little example of a ~10km tour in Berlin, Germany. Enjoy!
 
 ## Installing
 
