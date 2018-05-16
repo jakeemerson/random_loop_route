@@ -14,5 +14,6 @@ There are clearly issues to still work out or criteria to add, such as:
 The notebook here shows a nice little example of a ~10km tour in Berlin, Germany. Enjoy!
 
 ## Installing
+
 Prior to running `pip install -r requirements.txt` be sure to install the `rtree` package as described here: http://toblerity.org/rtree/install.html
 - 
